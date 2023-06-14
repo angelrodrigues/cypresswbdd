@@ -2,7 +2,7 @@
 *
 * Use o comando ```npx cypress open``` para rodar os testes no modo interativo ou ```npx cypress run``` para rodar no modo headless
 
-# Camadas da arquitetura
+* Camadas da arquitetura*
 
 **integration**: arquivos contendo as definições de BDD em extensão 
 
