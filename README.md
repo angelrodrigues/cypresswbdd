@@ -1,8 +1,8 @@
 * Instale o Cypress com Cucumber com o comando ``` npm install --save-dev cypress@9.1.1 cypress-cucumber-preprocessor```   <br>
-*
+
 * Use o comando ```npx cypress open``` para rodar os testes no modo interativo ou ```npx cypress run``` para rodar no modo headless  <br>
 
-** Camadas da arquitetura**  <br>
+**Camadas da arquitetura**  <br>
 
 **integration**: arquivos contendo as definições de BDD em extensão   <br>
 
